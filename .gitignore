@@ -1,0 +1,8 @@
+.gitattributes
+.idea/
+src/test/resources/output.html
+target/
+*.iml
+l4jconfig.xml
+src/test/resources/Klubturnier 2013 mögliche Teilnehmer_Muster.xlsx
+src/test/resources/Klubturnier 2014 mögliche Teilnehmer.xlsx
